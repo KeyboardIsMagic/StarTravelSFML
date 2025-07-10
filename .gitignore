@@ -1,0 +1,49 @@
+# CMake build folders
+cmake-build-*/
+build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ninja build files
+build.ninja
+.ninja_deps
+.ninja_log
+rules.ninja
+
+# Visual Studio-specific
+.vs/
+*.sln
+*.vcxproj*
+*.vcxproj.filters
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio CMake configuration files
+CMakeUserPresets.json
+CMakePresets.json
+CMakeSettings.json
+
+# Executables and compiled binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.app
+*.out
+*.o
+*.obj
+
+# IDEs and editor settings
+.idea/
+.vscode/
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.swo
+
+# binary output
+bin/
